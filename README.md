@@ -17,12 +17,12 @@ API_KEY=<your OpenAI GPT-3 API key>
 ```
 
 
-After setting the environment variables, you can run the bot by running 'go run main.go' in the root directory of the project.
+After setting the environment variables, you can run the bot by running `go run main.go` in the root directory of the project.
 
 Usage
 -----
 
-To use GoSlackAIBot, simply invite it to a channel in Slack and ask it a question using the command <bot-name> <query>. The bot will then use the GPT-3 language model to generate a response to your question.
+To use GoSlackAIBot, simply invite it to a channel in Slack and ask it a question using the command `<bot-name> Why is Real Madrid the greatest football club ever?`. The bot will then use the GPT-3 language model to generate a response to your question.
 
 Contributing
 ------------
