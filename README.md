@@ -22,7 +22,7 @@ After setting the environment variables, you can run the bot by running 'go run 
 Usage
 -----
 
-To use GoSlackAIBot, simply invite it to a channel in Slack and ask it a question using the command '/<bot-name> <query>'. The bot will then use the GPT-3 language model to generate a response to your question.
+To use GoSlackAIBot, simply invite it to a channel in Slack and ask it a question using the command <bot-name> <query>. The bot will then use the GPT-3 language model to generate a response to your question.
 
 Contributing
 ------------
