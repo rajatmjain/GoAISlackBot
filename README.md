@@ -14,7 +14,8 @@ Once you have obtained the necessary credentials, you can create a .env file in 
 SLACK_BOT_TOKEN=<your Slack bot token>
 SLACK_APP_TOKEN=<your Slack app token> 
 API_KEY=<your OpenAI GPT-3 API key>
-```
+```.env
+Copy code
 
 After setting the environment variables, you can run the bot by running go run main.go in the root directory of the project.
 
