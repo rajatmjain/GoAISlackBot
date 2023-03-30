@@ -10,9 +10,11 @@ To get started with GoSlackAIBot, you will need to have a Slack bot token and ap
 
 Once you have obtained the necessary credentials, you can create a .env file in the root directory of the project and set the following variables:
 
-```SLACK_BOT_TOKEN=<your Slack bot token> 
- SLACK_APP_TOKEN=<your Slack app token> 
- API_KEY=<your OpenAI GPT-3 API key>```
+```
+SLACK_BOT_TOKEN=<your Slack bot token>
+SLACK_APP_TOKEN=<your Slack app token> 
+API_KEY=<your OpenAI GPT-3 API key>
+```
 
 After setting the environment variables, you can run the bot by running go run main.go in the root directory of the project.
 
